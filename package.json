@@ -1,0 +1,21 @@
+{
+  "name": "idcloud-heker",
+  "version": "1.0.1",
+  "description": "Test idcloudhost api using package manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indoxcapital/idcloud-heker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/indoxcapital/idcloud-heker#readme",
+  "dependencies": {
+    "idcloudhost-api": "^2024.2.6",
+    "node-fetch": "^2.6.0"
+  }
+}
